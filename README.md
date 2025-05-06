@@ -39,5 +39,6 @@ This dashboard empowers finance teams and business leaders with dynamic, interac
 - Financial risk monitoring
 
 
+## 📷 Dashboard Preview
 
-
+https://github.com/manjeetbarman/Financial-Analysis-Dashboard/blob/main/Snapshot%20of%20Financial%20Analysis%20Dashboard%20Image.png
